@@ -13,7 +13,7 @@ public class Main {
         int numberToSquare1 = 2;
         int numberToSquare2 = 3;
         int numberToSquare3 = 4;
-        int numberToSquare4 = 5;
+        int numberToSquare4 = 6;
         System.out.println(Methods.getSquare(numberToSquare1));
         System.out.println(Methods.getSquare(numberToSquare2));
         System.out.println(Methods.getSquare(numberToSquare3));
